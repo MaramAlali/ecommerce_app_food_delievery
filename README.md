@@ -1,6 +1,6 @@
 # E-Commerce Food Delivery App
 
-
+![App Icon](https://img.icons8.com/?size=100&id=HvSyOTPh74Q9&format=png&color=000000)
 
 This is an e-commerce app for food delivery built using Flutter, with a backend developed as part of a crash course tutorial for both iOS and Android platforms. The app features a Laravel backend and a Laravel admin panel, utilizing a RESTful API for complete CRUD operations. We also integrated Firebase for notifications.
 
