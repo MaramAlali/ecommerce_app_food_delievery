@@ -61,4 +61,4 @@ This is an e-commerce app for food delivery built using Flutter, with a backend 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MaramAlali/ecommerce_app_food_delievery.git
