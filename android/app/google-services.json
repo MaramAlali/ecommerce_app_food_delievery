@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31859209881",
+    "project_id": "ecommerceapp-7901a",
+    "storage_bucket": "ecommerceapp-7901a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31859209881:android:831aa62d6039a519d32a08",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app_food_delievery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31859209881-dg5r7orrc37te6mh7r4a61hakh579guk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwjVNejFvHs5CwRQwbr-cXs2ZaIyaA-vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31859209881-dg5r7orrc37te6mh7r4a61hakh579guk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
